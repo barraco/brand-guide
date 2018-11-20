@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jpg/barraco-256.jpg" alt="Barraco">
+  <img src="./assets/jpg/barraco-inverted-256.jpg" alt="Barraco">
 </p>
 
 # Guia de uso da marca Barraco
